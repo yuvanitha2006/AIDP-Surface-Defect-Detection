@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2026-01-08T12:22:12.728523+00:00",
+    "drift_score": 0.011187225754699437,
+    "agreement_rate": 0.673728813559322,
+    "trust_score": 0.6491754712281044,
+    "reason": "KS drift or online drift with high human disagreement"
+  },
+  {
+    "timestamp": "2026-01-08T12:38:16.883580+00:00",
+    "drift_score": 0.011187225754699437,
+    "agreement_rate": 0.673728813559322,
+    "trust_score": 0.6491754712281044,
+    "reason": "KS drift or online drift with high human disagreement"
+  },
+  {
+    "timestamp": "2026-01-08T14:43:56.769182+00:00",
+    "drift_score": 0.011187225754699437,
+    "agreement_rate": 0.673728813559322,
+    "trust_score": 0.6491754712281044,
+    "reason": "KS drift or online drift with high human disagreement"
+  },
+  {
+    "timestamp": "2026-01-11T11:03:05.102102+00:00",
+    "drift_score": 0.011187225754699437,
+    "agreement_rate": 0.673728813559322,
+    "trust_score": 0.6491754712281044,
+    "reason": "KS drift or online drift with high human disagreement"
+  }
+]
