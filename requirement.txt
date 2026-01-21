@@ -1,1 +1,29 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+scipy
+joblib
+
+# Deep Learning (optional – if used)
+tensorflow
+torch
+torchvision
+
+# Model monitoring & drift
+evidently
+
+# Explainability
+shap
+lime
+
+# Dashboard / UI
+streamlit
+plotly
+
+# Utilities
+tqdm
+pyyaml
 
